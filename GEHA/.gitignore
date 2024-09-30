@@ -1,0 +1,5 @@
+# air tmp files
+tmp/
+
+# node modules
+node_modules/
